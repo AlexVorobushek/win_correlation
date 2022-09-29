@@ -1,3 +1,3 @@
 # win_correlation
 
-add at /data commands_perfomances.xlsx file and run main.py
+before run main.py add at /data commands_perfomances.xlsx file
